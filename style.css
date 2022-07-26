@@ -2,5 +2,8 @@
     height: 300px;
 }
 .panda-bg-info{
-    background-color: rgba(225, 149, 149, 0.931);
+    background-color: rgb(244, 112, 112);
+}
+.btn-warning{
+    background-color: rgb(240, 76, 163);!important
 }
